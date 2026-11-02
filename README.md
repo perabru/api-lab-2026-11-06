@@ -29,6 +29,8 @@ O código será publicado neste repositório. A preparação do texto para Linke
 
 ## 💛 Incentive este projeto com um Pix
 
+![Apoio voluntário por Pix](https://raw.githubusercontent.com/perabru/peradev-apis/main/brand/pix-support.svg)
+
 Se esta iniciativa ajudar você a aprender, economizar tempo ou construir algo, uma colaboração voluntária incentiva a continuidade do trabalho e a criação de novas APIs.
 
 ### Chave Pix — copie e cole
