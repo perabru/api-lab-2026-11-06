@@ -1,6 +1,13 @@
 # LinkedIn — Thread Notes API
 
-Estado: pendente de publicação após código confirmado no GitHub e conferência das atividades do perfil Bruno Pera. Entrega de 06/11/2026. Um post PT/EN, 2010 caracteres.
+- Estado: publicado e verificado em 06/11/2026.
+- Perfil: https://www.linkedin.com/in/brunopera00/
+- Permalink: https://www.linkedin.com/feed/update/urn:li:activity:7524412593826951168/
+- Autorização diária de 04/11/2026, válida para este desafio até 12/11/2026.
+- Prevenção de duplicatas: manifesto e LINKEDIN.md sem registro do dia; atividades recentes mostravam Board Lane (05/11), Order Once (04/11) e Project Shelf (03/11), sem Thread Notes. Publicar acionado uma única vez.
+- Evidência: “Publicação concluída.”; permalink aberto com texto português e inglês visível e cartão do repositório correto. A captura de screenshot expirou, sem afetar a confirmação do conteúdo.
+- Código confirmado antes do envio: https://github.com/perabru/api-lab-2026-11-06/commit/0fb95b2fe56b61218d08498d151689398694b5bd
+- Texto de origem: 2010 caracteres.
 
 ## Texto
 

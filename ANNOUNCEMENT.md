@@ -23,3 +23,5 @@ A demo isolada verifica criação, consulta e bloqueio de exclusão; o formulár
 O README destaca apoio voluntário por Pix com a chave bruno.pera@unifesp.br. A contribuição incentiva a continuidade; o código permanece aberto e gratuito.
 
 **English:** A local posts and comments API with nested routes, combined filters, pagination, SQLite persistence and guarded deletion. Twelve HTTP tests passed, including concurrent writes, rollback and real process restart. Explore the isolated demo and suggest a reproducible edge case.
+
+[Post bilíngue publicado e verificado no LinkedIn em 06/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524412593826951168/).

@@ -165,3 +165,5 @@ bruno.pera@unifesp.br
 Local posts and comments API with SQLite persistence, nested resources, combined filters, pagination and guarded deletion. Python standard library only. Twelve HTTP tests passed, including concurrency, rollback and real process restart. Independent study implementation inspired by JSONPlaceholder; no external integration or hosted endpoint.
 
 **Licença MIT · Bruno Michel Pera** · [Calendário](https://github.com/perabru/peradev-apis/blob/main/docs/10-days.md)
+
+[Post bilíngue publicado e verificado no LinkedIn em 06/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524412593826951168/).
