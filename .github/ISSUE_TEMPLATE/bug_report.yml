@@ -1,0 +1,23 @@
+name: Relatar comportamento
+description: Um exemplo reproduzível de rota ou filtro.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ambiente e versão do Python
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Estado inicial, requisições e filtros
+      description: Use dados fictícios e inclua o corpo, limit e offset quando aplicável.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Resultado obtido e esperado
+    validations:
+      required: true
